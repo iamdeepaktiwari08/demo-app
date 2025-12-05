@@ -13,8 +13,6 @@ I extended it with a fully automated CI/CD pipeline using Jenkins & Docker.
 
 📸 Jenkins Build Success
 
-Add this in your README after uploading image here:
-
 ![Jenkins Build Success](images/jenkins-success.png)
 
 📸 Live Website Output
